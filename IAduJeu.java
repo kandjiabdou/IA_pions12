@@ -28,7 +28,7 @@ public class IAduJeu {
         private int profondeur;
         
         // Constructeur
-        // Pour creer une situation on besion du tableau du jeu acctuelle,
+        // Pour creer une situation on besion du tableau du jeu acctuel,
         // la profondeur limite, et le maximisant.
        
         public Situation(Tableau tableauSituation,int profondeur, boolean maximisant) {
